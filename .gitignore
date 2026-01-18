@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Environment files
+cypress.env.json
+
+# OS
+.DS_Store
